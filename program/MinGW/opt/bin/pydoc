@@ -1,0 +1,5 @@
+#!/d/a/mingw-builds/mingw-builds/buildroot/x86_64-1120-posix-seh-rt_v9-rev1/mingw64/opt/bin/python2.7.exe
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
